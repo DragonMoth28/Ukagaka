@@ -1,0 +1,15 @@
+surface0
+{
+collision0,18,5,60,23,Head
+collision1,15,21,59,49,Face
+collision3,29,47,63,77,Chest
+}
+
+element0,overlay,surface0.png,0,0
+
+sakura.tooltips 
+{ 
+Head,Give it headpats? 
+Face,Touch its face?
+Chest,Pet its chest?  
+}
