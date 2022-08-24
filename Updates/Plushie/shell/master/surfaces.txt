@@ -1,9 +1,41 @@
+descript
+{
+    version,1
+}
+
 surface0
 {
-collision0,18,5,60,23,Head
-collision1,15,21,59,49,Face
-collision3,29,47,63,77,Chest
-}
+collision0,14,35,61,55,Head
+collision1,16,52,54,86,Face
+collision3,27,86,65,116,Chest
+	{
+	//ears
+	animation2001.interval,bind
+    animation2001.pattern0,overlay,2001,0,0,0
+    animation2002.interval,bind
+    animation2002.pattern0,overlay,2002,0,0,0
+	//capes
+	animation2201.interval,bind
+    animation2201.pattern0,overlay,2201,0,0,0
+    animation2202.interval,bind
+    animation2202.pattern0,overlay,2202,0,0,0
+	animation2203.interval,bind
+    animation2203.pattern0,overlay,2203,0,0,0
+	//dapper
+	animation2301.interval,bind
+    animation2301.pattern0,overlay,2301,0,0,0
+    animation2302.interval,bind
+    animation2302.pattern0,overlay,2302,0,0,0
+	//Allure's items
+	animation2101.interval,bind
+    animation2101.pattern0,overlay,2101,0,0,0
+    animation2102.interval,bind
+    animation2102.pattern0,overlay,2102,0,0,0
+	animation2103.interval,bind
+    animation2103.pattern0,overlay,2103,0,0,0
+    animation2104.interval,bind
+    animation2104.pattern0,overlay,2104,0,0,0
+	}
 
 element0,overlay,surface0.png,0,0
 

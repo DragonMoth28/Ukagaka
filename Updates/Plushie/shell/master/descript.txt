@@ -1,4 +1,9 @@
-﻿//There's a lot more going on in the descript.txt for a shell than for your ghost in general, as you can probably tell. I'll try to break it down.
+﻿descript
+{
+    version,1
+}
+
+//There's a lot more going on in the descript.txt for a shell than for your ghost in general, as you can probably tell. I'll try to break it down.
 
 
 //Free or Bound
@@ -18,9 +23,9 @@ seriko.use_self_alpha,1
 
 charset,UTF-8
 type,shell
-name,GT Default Shell
-craftman,zarla
-craftmanurl,http://www.ashido.com/ukagaka/walkthrough.html
+name,Master
+craftman,Softie
+craftmanurl,m
 
 
 //Balloon Co-ordinates
@@ -109,3 +114,20 @@ menu.sidebar.bitmap.filename,menu_sidebar.png
 //kero.menuitem0,55
 //kero.menuitem1,-
 //kero.menuitem2,57
+
+sakura.bindgroup2001.name,Ears,Cat
+sakura.bindgroup2002.name,Ears,Dog
+
+sakura.bindgroup2201.name,Capes,Blue
+sakura.bindgroup2202.name,Capes,Red
+sakura.bindgroup2203.name,Capes,Purple
+
+sakura.bindgroup2301.name,Dapper,Bow
+sakura.bindgroup2302.name,Dapper,Hat
+sakura.bindoption2301.group,Dapper,multiple
+
+sakura.bindgroup2101.name,Allure,Mask
+sakura.bindgroup2102.name,Allure,Hood
+sakura.bindgroup2103.name,Allure,Top
+sakura.bindgroup2104.name,Allure,Bottom
+sakura.bindoption2101.group,Allure,multiple
