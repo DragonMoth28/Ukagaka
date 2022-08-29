@@ -1,10 +1,10 @@
 Charset,UTF-8
 install,714438687
 homeurl_found,1
-surfacecount,12
+surfacecount,31
 homeurl,https://raw.githubusercontent.com/DragonMoth28/Ukagaka/main/Updates/Plushie/
 update_result,OK(0)
 firstboot,714440627
 update_time,714682432
-commitmemorysize,96675
-lastboot,714682423
+commitmemorysize,236013
+lastboot,715094778

@@ -11,7 +11,7 @@ ghost/master/menu.dicc30b74f66ffc394b03f4781510d44a5esize=16002date=2022-08-2
 ghost/master/mouse.dic8079b85dd274275bfd355be8892a9ff1size=6461date=2022-08-21T21:21:00
 ghost/master/nameteach.dic77b5f0a24631b5636ea05abc7c5ea7b5size=3835date=2022-08-23T20:40:45
 ghost/master/saori_cpuid.dlld13370aee8e579fe2517d789dba7c45esize=225280date=2004-04-17T16:47:18
-ghost/master/string.dicd4abff32a8f761ee470736dc40ae005bsize=7252date=2022-08-22T12:37:02
+ghost/master/string.dic4f57290ca251ec1acefdfdb2837447cfsize=7275date=2022-08-24T13:53:35
 ghost/master/system/messagetxt/classical-chinese.txt82769639cb6060591d0797126ac5efabsize=5129date=2021-12-21T05:53:46
 ghost/master/system/messagetxt/english.txt5a11530a72b2e815b677c19dbd3fac03size=7112date=2021-12-21T05:53:46
 ghost/master/system/messagetxt/japanese.txted859fd30c66d2ad612c56ebe66324d2size=9190date=2021-12-21T05:53:46
@@ -27,7 +27,7 @@ ghost/master/yaya.txt522497e477305b86e62743be9b3030d0size=1471date=2022-08-21
 ghost/master/yaya_config.txt134ca91eba1f7864526eaa3a2142dd20size=3920date=2017-03-17T23:07:24
 install.txta77c49c99000c181e7b45aa1b4cfc4dbsize=917date=2022-08-21T19:57:11
 readme.txtcb336bd90cc70f2f21a1b257218b0cc6size=395date=2014-11-09T04:39:46
-shell/master/descript.txt4bb81cf3d798241c6e07eff167fea0ebsize=5498date=2020-10-30T00:57:40
+shell/master/descript.txt3ea8ef9493a175a50b1a888a6625e379size=5995date=2022-08-24T13:25:22
 shell/master/dressupitems/allure/allure_bottom.pngd8082ab97799a824b10dad22aaf8031dsize=2084date=2022-08-24T09:22:18
 shell/master/dressupitems/allure/allure_hood.png8d44c925af777d2b4e4bddab23c9c125size=2015date=2022-08-24T09:21:29
 shell/master/dressupitems/allure/allure_hoodears.png6865aea10179bc715bd9bae2e0a28afcsize=3076date=2022-08-24T09:21:07
@@ -44,9 +44,20 @@ shell/master/menu_background.pngee82ad72761d4837c3334f61ade1fbc5size=2775date
 shell/master/menu_foreground.pnge0d10ee3534c5391c8e97a0897dc77a9size=2775date=2014-11-03T06:12:46
 shell/master/menu_sidebar.png7c405dcca0c16de439fcf21b4efecbb7size=7225date=2014-11-03T06:25:48
 shell/master/read me.txt6856fd1ab7cfd307653af0e350898708size=2064date=2020-11-07T00:22:20
-shell/master/surface0.pngc583dde84d594333f256e22ae06c7832size=8166date=2022-08-24T07:31:08
+shell/master/surface0.png9deb9ac385764561df286e8614873ae0size=8241date=2022-08-24T12:25:23
 shell/master/surface10.pngeae6f6bb43eb5bf7839e2835931ff3f5size=91date=2022-08-21T20:19:01
-shell/master/surfaces.txt836c4d0f98a09381ddf78a3c588c4673size=238date=2022-08-24T07:32:19
+shell/master/surface2001.pngf9b2dc3a3cbe963cff28a755ffd018casize=2856date=2022-08-24T09:23:13
+shell/master/surface2002.png203d1958fa07cf36de06584c9a6ec9aesize=1764date=2022-08-24T10:45:50
+shell/master/surface2101.png1eb311eb2753d2ac6bd8b4f2469c69fesize=2042date=2022-08-24T09:21:45
+shell/master/surface2102.png8d44c925af777d2b4e4bddab23c9c125size=2015date=2022-08-24T09:21:29
+shell/master/surface2103.pngefb385b776fe715a23c988b47eaf14b0size=4519date=2022-08-24T09:22:01
+shell/master/surface2104.pngd8082ab97799a824b10dad22aaf8031dsize=2084date=2022-08-24T09:22:18
+shell/master/surface2201.png34332a218405d60ce4b0d0ad9cf12ee3size=3180date=2022-08-24T09:25:03
+shell/master/surface2202.png5b76f9304f3d8458df1223582ecd93absize=2954date=2022-08-24T09:25:48
+shell/master/surface2203.png581a7468196cc8d6d1fcde98a8012dedsize=3228date=2022-08-24T09:25:36
+shell/master/surface2301.png99026c9d0c6c062bf8aeeb71d04922cbsize=1130date=2022-08-24T09:24:05
+shell/master/surface2302.png82f963e940f4b77809556288e84f79b5size=3049date=2022-08-24T09:24:18
+shell/master/surfaces.txt0718138fb0faa9c957af3e0429f39f0dsize=1189date=2022-08-24T13:24:58
 shell/master/surfacetable.txt1ddc38e7c9929111cabec32e28d3e5basize=3037date=2021-05-05T01:09:40
 shell/master/thumbnail.pnga3c3bac5cf40ca58530f72005b01e4c0size=24459date=2022-08-23T10:40:59
 thumbnail.pnga3c3bac5cf40ca58530f72005b01e4c0size=24459date=2022-08-23T10:40:59

@@ -14,6 +14,10 @@ collision3,27,86,65,116,Chest
     animation2001.pattern0,overlay,2001,0,0,0
     animation2002.interval,bind
     animation2002.pattern0,overlay,2002,0,0,0
+	animation2003.interval,bind
+    animation2003.pattern0,overlay,2003,0,0,0
+    animation2004.interval,bind
+    animation2004.pattern0,overlay,2004,0,0,0
 	//capes
 	animation2201.interval,bind
     animation2201.pattern0,overlay,2201,0,0,0
@@ -21,12 +25,31 @@ collision3,27,86,65,116,Chest
     animation2202.pattern0,overlay,2202,0,0,0
 	animation2203.interval,bind
     animation2203.pattern0,overlay,2203,0,0,0
+	animation2204.interval,bind
+    animation2204.pattern0,overlay,2204,0,0,0
+    animation2205.interval,bind
+    animation2205.pattern0,overlay,2205,0,0,0
+	animation2206.interval,bind
+    animation2206.pattern0,overlay,2206,0,0,0
+	animation2207.interval,bind
+    animation2207.pattern0,overlay,2207,0,0,0
+    animation2208.interval,bind
+    animation2208.pattern0,overlay,2208,0,0,0
+	animation2209.interval,bind
+    animation2209.pattern0,overlay,2209,0,0,0
+	animation2210.interval,bind
+    animation2210.pattern0,overlay,2210,0,0,0
 	//dapper
 	animation2301.interval,bind
     animation2301.pattern0,overlay,2301,0,0,0
     animation2302.interval,bind
     animation2302.pattern0,overlay,2302,0,0,0
-	//Allure's items
+	//bracelets
+	animation2401.interval,bind
+    animation2401.pattern0,overlay,2401,0,0,0
+    animation2402.interval,bind
+    animation2402.pattern0,overlay,2402,0,0,0
+	//allure's items
 	animation2101.interval,bind
     animation2101.pattern0,overlay,2101,0,0,0
     animation2102.interval,bind
@@ -35,6 +58,21 @@ collision3,27,86,65,116,Chest
     animation2103.pattern0,overlay,2103,0,0,0
     animation2104.interval,bind
     animation2104.pattern0,overlay,2104,0,0,0
+	//ribbons (Mainly based on Twemoji Stuffed Bear)
+	animation2501.interval,bind
+    animation2501.pattern0,overlay,2501,0,0,0
+    animation2502.interval,bind
+    animation2502.pattern0,overlay,2502,0,0,0
+	animation2503.interval,bind
+    animation2503.pattern0,overlay,2503,0,0,0
+	animation2504.interval,bind
+    animation2504.pattern0,overlay,2504,0,0,0
+    animation2505.interval,bind
+    animation2505.pattern0,overlay,2505,0,0,0
+	animation2506.interval,bind
+    animation2506.pattern0,overlay,2506,0,0,0
+	animation2507.interval,bind
+    animation2507.pattern0,overlay,2507,0,0,0
 	}
 
 element0,overlay,surface0.png,0,0
