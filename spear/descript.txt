@@ -4,7 +4,7 @@ type,shell
 name,Spear
 craftman,Softie
 craftmanurl,https://github.com/DragonMoth28
-homeurl,https://github.com/DragonMoth28/Ukagaka/tree/main/spear
+homeurl,https://raw.githubusercontent.com/DragonMoth28/Ukagaka/main/spear/
 
 seriko.alignmenttodesktop,free
 seriko.use_self_alpha,1
