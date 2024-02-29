@@ -1,0 +1,25 @@
+descript
+{
+
+}
+
+surface0
+{
+	0interval,bind
+	0pattern0,0,0,replace,0,0
+	1interval,bind
+	1pattern0,1,0,replace,0,0
+
+21interval,bind
+	21pattern0,21,0,overlay,-5,110
+}
+
+surface1
+{
+	20interval,bind
+	20pattern0,20,0,overlay,75,15
+}
+
+surface10
+{
+}
